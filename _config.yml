@@ -6,6 +6,7 @@ server_port: 4000
 source:      . # GitHub Pages: <your pages repo>
 destination: ./_site # GitHub Pages: <the build dir>
 plugins:     ./_plugins
+baseurl:     '/jekyll-boilerplate'
 
 future:      true
 lsi:         false # GitHub Pages: "false"
