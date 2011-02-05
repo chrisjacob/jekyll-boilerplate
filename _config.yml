@@ -1,15 +1,15 @@
-safe:        false
-auto:        true
+safe:        false # GitHub Pages: "true"
+auto:        true # Default: "false"
 server:      false
 server_port: 4000
 
-source:      .
-destination: ./_site
+source:      . # GitHub Pages: <your pages repo>
+destination: ./_site # GitHub Pages: <the build dir>
 plugins:     ./_plugins
 
 future:      true
-lsi:         false
-pygments:    true
+lsi:         false # GitHub Pages: "false"
+pygments:    true # Default: "false". GitHub Pages: "true"
 markdown:    maruku
 permalink:   date
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+      <loc>http://recursive-design.com/</loc>
+      <lastmod>2011-02-05</lastmod>
+  </url>
+  <url>
+      <loc>http://recursive-design.com/2011/02/06/Hello-Future</loc>
+      <lastmod>2011-02-06</lastmod>
+  </url>
+  <url>
+      <loc>http://recursive-design.com/2011/02/05/Hello-World</loc>
+      <lastmod>2011-02-05</lastmod>
+  </url>
+  <url>
+      <loc>http://recursive-design.com/2011/02/04/Hello-Past</loc>
+      <lastmod>2011-02-04</lastmod>
+  </url>
+</urlset>
