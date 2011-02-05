@@ -1,3 +1,4 @@
+# ( NOT FINISHED / UNDER DEVELOPMENT )
 # Jekyll Boilerplate
 
 My starting template for Jekyll powered websites.
